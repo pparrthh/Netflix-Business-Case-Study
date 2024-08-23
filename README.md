@@ -19,31 +19,11 @@ This repository contains a comprehensive analysis of Netflix's business model, s
 ## Conclusion
 The case study concludes that Netflix's continued success will depend on its ability to innovate, manage content costs, and navigate an increasingly competitive market. As the entertainment landscape evolves, Netflix's adaptability and strategic choices will be crucial.
 
-## Repository Contents
-- **/data/**: Datasets used in the analysis.
-- **/notebooks/**: Jupyter notebooks containing the analysis and visualizations.
-- **/reports/**: Final reports and presentations summarizing the case study findings.
-- **README.md**: This file, providing an overview of the project and its objectives.
-
-## How to Use
-1. **Clone the repository**: 
-    ```bash
-    git clone https://github.com/yourusername/netflix-business-case-study.git
-    ```
-2. **Navigate to the notebooks folder**:
-    ```bash
-    cd notebooks
-    ```
-3. **Open the Jupyter notebooks to explore the analysis**:
-    ```bash
-    jupyter notebook
-    ```
-
 ## References
 - Netflix Inc. annual reports
 - Industry analysis reports
 - Market research data
 
 ## Contact
-For any questions or inquiries, please contact [Your Name] at [Your Email].
+For any questions or inquiries, please contact Parth Patel at parthpatel5340@gmail.com
 
